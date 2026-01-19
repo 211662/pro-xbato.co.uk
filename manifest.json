@@ -1,0 +1,35 @@
+{
+    "name": "Batoto - Ultimate Manga Reading Platform",
+    "short_name": "Batoto",
+    "description": "The ultimate destination where passion for storytelling meets cutting-edge technology. Read manga, manhwa, and manhua with crystal clear quality and lightning-fast speed.",
+    "start_url": "/",
+    "display": "standalone",
+    "background_color": "#ffffff",
+    "theme_color": "#2563eb",
+    "orientation": "portrait-primary",
+    "icons": [
+        {
+            "src": "assets/images/favicon-16x16.png",
+            "sizes": "16x16",
+            "type": "image/png"
+        },
+        {
+            "src": "assets/images/favicon-32x32.png",
+            "sizes": "32x32",
+            "type": "image/png"
+        },
+        {
+            "src": "assets/images/apple-touch-icon.png",
+            "sizes": "180x180",
+            "type": "image/png"
+        },
+        {
+            "src": "assets/images/logo-batoto.jpg",
+            "sizes": "512x512",
+            "type": "image/jpeg"
+        }
+    ],
+    "categories": ["entertainment", "books", "reading"],
+    "lang": "en",
+    "scope": "/"
+}
