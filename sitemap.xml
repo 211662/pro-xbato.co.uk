@@ -22,9 +22,31 @@
     
     <url>
         <loc>https://xbato.co.uk/contact.html</loc>
-        <lastmod>2026-01-19</lastmod>
+        <lastmod>2026-01-23</lastmod>
         <changefreq>monthly</changefreq>
         <priority>0.7</priority>
+    </url>
+    
+    <!-- Legal Pages -->
+    <url>
+        <loc>https://xbato.co.uk/terms.html</loc>
+        <lastmod>2026-01-23</lastmod>
+        <changefreq>yearly</changefreq>
+        <priority>0.5</priority>
+    </url>
+    
+    <url>
+        <loc>https://xbato.co.uk/privacy.html</loc>
+        <lastmod>2026-01-23</lastmod>
+        <changefreq>yearly</changefreq>
+        <priority>0.5</priority>
+    </url>
+    
+    <url>
+        <loc>https://xbato.co.uk/dmca.html</loc>
+        <lastmod>2026-01-23</lastmod>
+        <changefreq>yearly</changefreq>
+        <priority>0.5</priority>
     </url>
     
     <!-- Blog/Toplist Pages -->
